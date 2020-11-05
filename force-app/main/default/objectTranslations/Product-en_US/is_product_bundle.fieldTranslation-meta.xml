@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Equipment Bundle</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Equipment Bundles</value>
+    </caseValues>
+    <name>is_product_bundle</name>
+    <startsWith>Consonant</startsWith>
+</CustomFieldTranslation>
