@@ -1,5 +1,5 @@
-trigger MaintenanceRequest on Case (after insert) {
+trigger MaintenanceRequest on Case (after update) {
 
-
+    MaintenanceRequestHelper.createNextMaintainanceRequest(Trigger.newMap);
 
 }
