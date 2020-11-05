@@ -1,4 +1,4 @@
-trigger MaintenanceRequest on SOBJECT (after insert) {
+trigger MaintenanceRequest on Case (after insert) {
 
 
 
