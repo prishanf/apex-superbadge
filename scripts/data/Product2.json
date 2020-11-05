@@ -1,0 +1,498 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref1"
+            },
+            "Name": "GenWatt Diesel 200kW",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref2"
+            },
+            "Name": "GenWatt Diesel 10kW",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref3"
+            },
+            "Name": "Installation: Industrial - High",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref4"
+            },
+            "Name": "SLA: Silver",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref5"
+            },
+            "Name": "GenWatt Propane 500kW",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref6"
+            },
+            "Name": "SLA: Platinum",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref7"
+            },
+            "Name": "GenWatt Propane 100kW",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref8"
+            },
+            "Name": "GenWatt Propane 1500kW",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref9"
+            },
+            "Name": "GenWatt Diesel 1000kW",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref10"
+            },
+            "Name": "SLA: Bronze",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref11"
+            },
+            "Name": "GenWatt Gasoline 750kW",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref12"
+            },
+            "Name": "Installation: Portable",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref13"
+            },
+            "Name": "SLA: Gold",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref14"
+            },
+            "Name": "GenWatt Gasoline 300kW",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref15"
+            },
+            "Name": "Installation: Industrial - Low",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref16"
+            },
+            "Name": "GenWatt Gasoline 2000kW",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref17"
+            },
+            "Name": "Installation: Industrial - Medium",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref18"
+            },
+            "Name": "Robotic Arm Assembly System",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref19"
+            },
+            "Name": "Wheeled Assembly System",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref20"
+            },
+            "Name": "Fixed-Base Assembly System",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref21"
+            },
+            "Name": "Large CloudyBot",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref22"
+            },
+            "Name": "Medium CloudyBot",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref23"
+            },
+            "Name": "Small CloudyBot",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref24"
+            },
+            "Name": "Large RainbowBot",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref25"
+            },
+            "Name": "Medium RainbowBot",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref26"
+            },
+            "Name": "Small RainbowBot",
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref27"
+            },
+            "Name": "Generator 1000 kW",
+            "QuantityUnitOfMeasure": "5",
+            "StockKeepingUnit": "100003",
+            "Cost__c": 5000,
+            "Lifespan_Months__c": 120,
+            "Maintenance_Cycle__c": 365,
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref28"
+            },
+            "Name": "Cooling Fan",
+            "QuantityUnitOfMeasure": "183",
+            "StockKeepingUnit": "100004",
+            "Cost__c": 300,
+            "Lifespan_Months__c": 0,
+            "Maintenance_Cycle__c": 0,
+            "Replacement_Part__c": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref29"
+            },
+            "Name": "Fuse 20A",
+            "QuantityUnitOfMeasure": "143",
+            "StockKeepingUnit": "100005",
+            "Cost__c": 22,
+            "Lifespan_Months__c": 0,
+            "Maintenance_Cycle__c": 0,
+            "Replacement_Part__c": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref30"
+            },
+            "Name": "Generator 2000 kw",
+            "QuantityUnitOfMeasure": "5",
+            "StockKeepingUnit": "100006",
+            "Cost__c": 6000,
+            "Lifespan_Months__c": 120,
+            "Maintenance_Cycle__c": 365,
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref31"
+            },
+            "Name": "Fuse 25A",
+            "QuantityUnitOfMeasure": "142",
+            "StockKeepingUnit": "100007",
+            "Cost__c": 28,
+            "Lifespan_Months__c": 0,
+            "Maintenance_Cycle__c": 0,
+            "Replacement_Part__c": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref32"
+            },
+            "Name": "Fuse 13A",
+            "QuantityUnitOfMeasure": "122",
+            "StockKeepingUnit": "100008",
+            "Cost__c": 10,
+            "Lifespan_Months__c": 0,
+            "Maintenance_Cycle__c": 0,
+            "Replacement_Part__c": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref33"
+            },
+            "Name": "Ball Valve 10 cm",
+            "QuantityUnitOfMeasure": "90",
+            "StockKeepingUnit": "100009",
+            "Cost__c": 50,
+            "Lifespan_Months__c": 0,
+            "Maintenance_Cycle__c": 0,
+            "Replacement_Part__c": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref34"
+            },
+            "Name": "Converter",
+            "QuantityUnitOfMeasure": "2",
+            "StockKeepingUnit": "100010",
+            "Cost__c": 3000,
+            "Lifespan_Months__c": 120,
+            "Maintenance_Cycle__c": 180,
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref35"
+            },
+            "Name": "Ball Valve 8 cm",
+            "QuantityUnitOfMeasure": "75",
+            "StockKeepingUnit": "100011",
+            "Cost__c": 42,
+            "Lifespan_Months__c": 0,
+            "Maintenance_Cycle__c": 0,
+            "Replacement_Part__c": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref36"
+            },
+            "Name": "Breaker 25A",
+            "QuantityUnitOfMeasure": "100",
+            "StockKeepingUnit": "100012",
+            "Cost__c": 30,
+            "Lifespan_Months__c": 0,
+            "Maintenance_Cycle__c": 0,
+            "Replacement_Part__c": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref37"
+            },
+            "Name": "Switch",
+            "QuantityUnitOfMeasure": "150",
+            "StockKeepingUnit": "100013",
+            "Cost__c": 100,
+            "Lifespan_Months__c": 0,
+            "Maintenance_Cycle__c": 0,
+            "Replacement_Part__c": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref38"
+            },
+            "Name": "Ball Valve 5 cm",
+            "QuantityUnitOfMeasure": "200",
+            "StockKeepingUnit": "100014",
+            "Cost__c": 30,
+            "Lifespan_Months__c": 0,
+            "Maintenance_Cycle__c": 0,
+            "Replacement_Part__c": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref39"
+            },
+            "Name": "UPS 3000 VA",
+            "QuantityUnitOfMeasure": "8",
+            "StockKeepingUnit": "100015",
+            "Cost__c": 1600,
+            "Lifespan_Months__c": 60,
+            "Maintenance_Cycle__c": 180,
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref40"
+            },
+            "Name": "UPS 1000 VA",
+            "QuantityUnitOfMeasure": "10",
+            "StockKeepingUnit": "100016",
+            "Cost__c": 1000,
+            "Lifespan_Months__c": 48,
+            "Maintenance_Cycle__c": 180,
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref41"
+            },
+            "Name": "Breaker 8A",
+            "QuantityUnitOfMeasure": "180",
+            "StockKeepingUnit": "100017",
+            "Cost__c": 10,
+            "Lifespan_Months__c": 0,
+            "Maintenance_Cycle__c": 0,
+            "Replacement_Part__c": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref42"
+            },
+            "Name": "Cooling Tower",
+            "QuantityUnitOfMeasure": "2",
+            "StockKeepingUnit": "100018",
+            "Cost__c": 10000,
+            "Lifespan_Months__c": 120,
+            "Maintenance_Cycle__c": 365,
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref43"
+            },
+            "Name": "Motor",
+            "QuantityUnitOfMeasure": "165",
+            "StockKeepingUnit": "100019",
+            "Cost__c": 150,
+            "Lifespan_Months__c": 0,
+            "Maintenance_Cycle__c": 0,
+            "Replacement_Part__c": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref44"
+            },
+            "Name": "Breaker 13A",
+            "QuantityUnitOfMeasure": "210",
+            "StockKeepingUnit": "100020",
+            "Cost__c": 20,
+            "Lifespan_Months__c": 0,
+            "Maintenance_Cycle__c": 0,
+            "Replacement_Part__c": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref45"
+            },
+            "Name": "Radiator Pump",
+            "QuantityUnitOfMeasure": "100",
+            "StockKeepingUnit": "100021",
+            "Cost__c": 500,
+            "Lifespan_Months__c": 0,
+            "Maintenance_Cycle__c": 0,
+            "Replacement_Part__c": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref46"
+            },
+            "Name": "Breaker 20A",
+            "QuantityUnitOfMeasure": "129",
+            "StockKeepingUnit": "100022",
+            "Cost__c": 25,
+            "Lifespan_Months__c": 0,
+            "Maintenance_Cycle__c": 0,
+            "Replacement_Part__c": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref47"
+            },
+            "Name": "UPS 2000 VA",
+            "QuantityUnitOfMeasure": "10",
+            "StockKeepingUnit": "100001",
+            "Cost__c": 1350,
+            "Lifespan_Months__c": 60,
+            "Maintenance_Cycle__c": 180,
+            "Replacement_Part__c": false
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref48"
+            },
+            "Name": "Fuse 8A",
+            "QuantityUnitOfMeasure": "194",
+            "StockKeepingUnit": "100002",
+            "Cost__c": 5,
+            "Lifespan_Months__c": 0,
+            "Maintenance_Cycle__c": 30,
+            "Replacement_Part__c": true
+        }
+    ]
+}
