@@ -17,3 +17,10 @@ void getFieldApis(String sObjectName){
 
 String sObjectName = 'Product2';
 getFieldApis(sObjectName);
+
+Integer generateRandomNumber(Integer size){
+        Decimal d = math.random() * size;
+        return d.intValue();
+    }
+
+System.debug('randomNumber  is '+generateRandomNumber(1));
