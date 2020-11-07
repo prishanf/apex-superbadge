@@ -2,16 +2,11 @@ public with sharing class WarehouseCalloutService {
 
     private static final String WAREHOUSE_URL = 'https://th-superbadge-apex.herokuapp.com/equipment';
     
-   
-    public static void runWarehouseEquipmentSync() {
-        handleUpdates();
-                
-    }
-
     @Future(callout=true)
-    public static void handleUpdates(){
+    public static void runWarehouseEquipmentSync() {
         List<Equipment> equimentList =  makeGetCallout();
         updateEquipments(equimentList);
+                
     }
 
     public static List<Equipment> makeGetCallout() {
