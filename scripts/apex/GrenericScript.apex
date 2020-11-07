@@ -24,3 +24,6 @@ Integer generateRandomNumber(Integer size){
     }
 
 System.debug('randomNumber  is '+generateRandomNumber(1));
+
+String CRON_EXP = '0 0 1 * * ? *';
+String jobID = system.schedule('External Equipment Data Sync', CRON_EXP, new WarehouseSyncSchedule());
